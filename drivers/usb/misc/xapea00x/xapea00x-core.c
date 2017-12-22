@@ -8,6 +8,7 @@
  */
 
 #include "xapea00x.h"
+#include "xapea00x-backports.h"
 
 #define XAPEA00X_TPM_MODALIAS	       "tpm_tis_spi"
 
